@@ -1,0 +1,13 @@
+.nav {
+	background-color: #FFFFFF;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	align-items: 20px;
+}
+.image {
+	width: 200px;
+	height: 200px;
+	background-image: url("/images/airbnb logo.png");
+	background-repeat: no-repeat;
+}
